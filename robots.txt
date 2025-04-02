@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://cortexi.vercel.app
+Sitemap: https://cortexi.vercel.app/sitemap.xml
