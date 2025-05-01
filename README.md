@@ -1,1 +1,1 @@
-# https://cortexi.vercel.app
+# https://cortexi.vercel.app/
