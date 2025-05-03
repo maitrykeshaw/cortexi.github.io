@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Cortexi™ |USA Official |100% Pure| Just $49/ Bottle",
+  "short_name":"Cortexi™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Cortexi is a completely natural product that promotes healthy hearing, improves memory, and sharpens mental clarity.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
